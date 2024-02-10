@@ -1,0 +1,35 @@
+{
+    "version":"20240210",
+    "har": {
+        "Apk台灣中文網-每日簽到": {
+            "name": "Apk台灣中文網-每日簽到",
+            "author": "liaojack8",
+            "update": true,
+            "comments": "cookie登入 <br>url: https://apk.tw/",
+            "filename": "Apk台灣中文網-每日簽到.har",
+            "content": "",
+            "date": "2024-02-10 22:20:00",
+            "version":"20240210"
+        },
+        "94i論壇-每日簽到": {
+            "name": "94i論壇-每日簽到",
+            "author": "liaojack8",
+            "update": true,
+            "comments": "cookie登入 <br>url: https://94i.in/",
+            "filename": "94i論壇-每日簽到.har",
+            "content": "",
+            "date": "2024-02-10 22:25:00",
+            "version":"20240210"
+        },
+        "rfidfans-每日簽到領金幣": {
+            "name": "rfidfans-每日簽到領金幣",
+            "author": "liaojack8",
+            "update": true,
+            "comments": "以帳號+base64編碼過後的密碼進行登入 <br>url: https://www.rfidfans.com",
+            "filename": "rfidfans.har",
+            "content": "",
+            "date": "2024-02-10 22:25:00",
+            "version":"20240210"
+        }
+    }
+}
