@@ -21,15 +21,15 @@
             "date": "2024-02-10 22:25:00",
             "version": "20240210"
         },
-        "rfidfans-每日簽到領金幣": {
-            "name": "rfidfans-每日簽到領金幣",
+        "rfidfans-每日打卡領金幣": {
+            "name": "rfidfans-每日打卡領金幣",
             "author": "liaojack8",
             "update": true,
             "comments": "以帳號+base64編碼過後的密碼進行登入 <br>url: https://www.rfidfans.com",
-            "filename": "rfidfans.har",
+            "filename": "rfidfans-每日打卡領金幣.har",
             "content": "W3siY29tbWVudCI6ICIiLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vd3d3LnJmaWRmYW5zLmNvbS93aW4vaW5mb3JtYXRpb24ucGhwIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogIkNvbnRlbnRMZW5ndGgiLCAidmFsdWUiOiAiNzUifSwgeyJuYW1lIjogIkV4cGVjdCIsICJ2YWx1ZSI6ICIxMDAtY29udGludWUifV0sICJjb29raWVzIjogW10sICJkYXRhIjogInBhc3NBPXt7YjY0ZW5jb2RlKFwicHJpdmF0ZWluZm9cIil8dXJsZW5jb2RlfX0mcGFzc0I9e3tiNjRlbmNvZGUoXCJwY3JpbmZvXCIpfHVybGVuY29kZX19JnVzZXJuYW1lPXt7dXNlcm5hbWV8dXJsZW5jb2RlfX0mcGFzc2M9e3tiNjRQYXNzd29yZHx1cmxlbmNvZGV9fSIsICJtaW1lVHlwZSI6ICJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFtdLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sibmFtZSI6ICJqaW5iaSIsICJyZSI6ICJcImppbmJpXCI6XCIoXFxkKylcIiIsICJmcm9tIjogImNvbnRlbnQifSwgeyJuYW1lIjogIklEIiwgInJlIjogIlwiSURcIjpcIihcXGQrKVwiIiwgImZyb20iOiAiY29udGVudCJ9LCB7Im5hbWUiOiAicmVndGltZSIsICJyZSI6ICJcInJlZ3RpbWVcIjpcIihcXGR7NH0tXFxkezEsMn0tXFxkezEsMn0gXFxkezJ9OlxcZHsyfSkiLCAiZnJvbSI6ICJjb250ZW50In0sIHsibmFtZSI6ICJ1c2VybGV2ZWwiLCAicmUiOiAiXCJ1c2VybGV2ZWxcIjpcIiguKylcIiIsICJmcm9tIjogImNvbnRlbnQifSwgeyJuYW1lIjogImxvZ2ludGltZXMiLCAicmUiOiAiXCJsb2dpbnRpbWVzXCI6XCIoXFxkKylcIiIsICJmcm9tIjogImNvbnRlbnQifV19fSwgeyJjb21tZW50IjogIiIsICJyZXF1ZXN0IjogeyJtZXRob2QiOiAiUE9TVCIsICJ1cmwiOiAiaHR0cHM6Ly93d3cucmZpZGZhbnMuY29tL3VwbG9hZC9xaWFuZGFvLnBocCIsICJoZWFkZXJzIjogW3sibmFtZSI6ICJDb250ZW50TGVuZ3RoIiwgInZhbHVlIjogIjMzIn0sIHsibmFtZSI6ICJFeHBlY3QiLCAidmFsdWUiOiAiMTAwLWNvbnRpbnVlIn1dLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICJ1c2VybmFtZT17e3VzZXJuYW1lfHVybGVuY29kZX19JnBhc3NjPXt7YjY0UGFzc3dvcmR8dXJsZW5jb2RlfX0iLCAibWltZVR5cGUiOiAiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIn0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICLmgqjku4rlpKnlt7Lnu4/nrb7ov4fkuoYiLCAiZnJvbSI6ICJjb250ZW50In1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW119fSwgeyJjb21tZW50IjogIl9fTE9HX18iLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImFwaTovL3V0aWwvdXJsZGVjb2RlIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAidW5xdW90ZV9wbHVzPWZhbHNlJmVuY29kaW5nPXV0Zi04JmNvbnRlbnQ95L2/55So6ICFOnt7dXNlcm5hbWV9fSwg6YeR5bmjOnt7amluYml9feWAi1xcclxcbklEOnt7SUR9fSwg6Ki75YaK5pmC6ZaTOnt7cmVndGltZX19LCDkvb/nlKjogIXnrYnntJo6e3t1c2VybGV2ZWx9fSwg55m75YWl5qyh5pW4Ont7bG9naW50aW1lc319In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifSwgeyJyZSI6ICJcIueKtuaAgVwiOiBcIk9LXCIiLCAiZnJvbSI6ICJjb250ZW50In1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sibmFtZSI6ICJfX2xvZ19fIiwgInJlIjogIlwi6L2s5o2i5ZCOXCI6IFwiKC4qKVwiIiwgImZyb20iOiAiY29udGVudCJ9XX19XQ==",
-            "date": "2024-02-10 22:25:00",
-            "version": "20240210"
+            "date": "2024-02-10 23:55:00",
+            "version": "20240210.1"
         },
         "Apk台灣中文網-在線時間": {
             "name": "Apk台灣中文網-在線時間",
